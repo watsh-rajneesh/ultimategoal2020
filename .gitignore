@@ -87,3 +87,13 @@ lint/tmp/
 # lint/reports/
 .idea/
 stale_outputs_checked
+
+
+.project
+.settings/
+FtcRobotController/.classpath
+FtcRobotController/.project
+FtcRobotController/.settings/
+TeamCode/.classpath
+TeamCode/.project
+TeamCode/.settings/
